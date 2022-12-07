@@ -4,6 +4,7 @@
     <i class="fa fa-user icon"></i>
     <input class="input-field" type="text" placeholder="Username" name="usrnm">
   </div>
+  
 
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
@@ -14,6 +15,11 @@
     <i class="fa fa-key icon"></i>
     <input class="input-field" type="password" placeholder="Password" name="psw">
   </div>
-
+  
+  <div>
+     
+     <input class="input-field" type="date" placeholder="dob" name="dob">
+  
+  </div>
   <button type="submit" class="btn">Register</button>
 </form>
